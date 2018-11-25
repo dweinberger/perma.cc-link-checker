@@ -17,7 +17,7 @@ This program is designed for use on publicly available Perma links, not ones you
 
 Note that you don't need quotes around the title or any special delimiter between the title and the link; the script assumes anything up to the https:// is the title.
 
-Save your file as "links-and-titles.txt". Or you can create whatever name you like so long as you modify line 15. Put it in the same directory as the PHP script.
+Save your file as "links-and-titles.txt". Or you can create whatever name you like so long as you modify ``$lines = file('links-and-titles.txt');``. Put the file in the same directory as the PHP script.
 
 To run the script, load the .php page into your browser.
 
