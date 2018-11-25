@@ -5,7 +5,7 @@
 //
 // Perma.cc API documentation is here: https://perma.cc/docs/developer
 //
-// This program sumes there's a file with the page title and one perma link per line.
+// This program assumes there's a file with the page title and one perma link per line.
 // E.g. The Rand Corporation: The Think Tank That Controls America  https://perma.cc/B5LR-88CF
 //
 // I offer it under the MIT open source license.
